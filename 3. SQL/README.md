@@ -1,0 +1,1 @@
+SQL learning and queries
